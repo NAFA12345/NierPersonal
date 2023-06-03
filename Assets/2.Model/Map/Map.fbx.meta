@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 1675d8a5a0eb83c4c980ece3e05347a5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_fe19_constant_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 4aca317883e56a7448bcee7fe6d7a138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_fe19_floor10_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 629ba2bf846629e47b93625c6da13944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_fe19_other1_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 5c4e61205075d5f4b8d5d9ef5fca5f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_fe19_roof01_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 6c10f45248d56314781583b180d77393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_fe19_roof05_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 4f5750e06d7410c4292a43e17ef7ca1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: debrisset_material_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: b90166720c713df47b47449793a7dfe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door03_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: ee5559a987700e94592850ab2457da64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor07_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 3cb2c7145faf5bb4abaab13167ab0b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor09_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 9491e2e7ef833ec4a994c6db8d78e9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor13_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 10c2c56ecf100e349912184a92e07137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground06_albed_aaa1_tga1
+    second: {fileID: 2100000, guid: c2245d7f760238246b69cb4a23ec5174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_BarricadeSet01_aaax_tga1
+    second: {fileID: 2100000, guid: b413c396b330d85498cd8eca6d94fb56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_breakconcrete02_AAAx_tga
+    second: {fileID: 2100000, guid: 948db57c67e7f86448d5a771c0f57015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_concretedebri02
+    second: {fileID: 2100000, guid: 2f68b0cc03676944aaebfbe24b4ece2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_concretedebris03_AAAx_tga
+    second: {fileID: 2100000, guid: 42d3db8f4e742454b9a70f4fb8d34806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_concretefloor04_aaa3_tga1
+    second: {fileID: 2100000, guid: c583461570291404297453d7fac5096d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_concretefloor04debris_AAAx_tga
+    second: {fileID: 2100000, guid: 661f7b2f9c3388d4d862d8884ee4150e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_concretewall01_aaax_tga1
+    second: {fileID: 2100000, guid: bbe8cb9f4a1ff924ab705714e85e093f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_containerset02_aaax_tga1
+    second: {fileID: 2100000, guid: 11a8e68c45b7af14bbea600579287ee4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_door01_AAAx_tga1
+    second: {fileID: 2100000, guid: a1ca02446ab6a3d47a1a518faa0df3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_door02_aaax_tga1
+    second: {fileID: 2100000, guid: 3e015d2aa482f8a4098cdb39bf1866ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_fence02_aaa1_tga1
+    second: {fileID: 2100000, guid: 51d099cf4a779c5418fcc229b827b43b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_groundparts01_aaa1_tga1
+    second: {fileID: 2100000, guid: 2d089f621444cb6439992584c778c766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_metalpanel06_aaax_tga1
+    second: {fileID: 2100000, guid: b34ad4e0701f1a44dabeec8baf716edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_metalpanel07_aaax_tga1
+    second: {fileID: 2100000, guid: d08166fa7cf0616488a7859bbaf18992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_objects01_AAAx_tga
+    second: {fileID: 2100000, guid: f2110de90e14dc94d887e1fb799b295c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_pipe_straight01_AAAx_tga1
+    second: {fileID: 2100000, guid: 9a7e77532dcc1684cbec29491748abfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_pipebig02_aaax_tga1
+    second: {fileID: 2100000, guid: f7037dcff94e5474cb46fc2e618f12db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_pipebig02_aaax_tga2
+    second: {fileID: 2100000, guid: b2d4c6f0e1e960e41b570ab4a1027e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_pipeset01_AAA1_tga
+    second: {fileID: 2100000, guid: 0d77547767015c247883d83df90ff296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mas_wall01_AAAx_tga
+    second: {fileID: 2100000, guid: d928e94373606324e80069d87aff58a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: os10_base_aaax_tga1
+    second: {fileID: 2100000, guid: ac35c5ae69e82ae4aa912eb9f69b318a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: os10_base_aaax_tga1_LT_LT_LT_LT
+    second: {fileID: 2100000, guid: 3653fcd77e9fbe9498a5177666e0fa97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: other08_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 3ac44e72584f12d4ba419c87d499e632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: other1_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 224be3cde911972478a5dbbde818b7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stairs00_albedo_aaax_tga1
+    second: {fileID: 2100000, guid: 689812e4d10c36148951d72478a511f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tube01_albedo_aaax_tga2
+    second: {fileID: 2100000, guid: 2a7a70ac5128d4249afc323a729f8767, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

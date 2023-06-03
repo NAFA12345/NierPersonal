@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GuideLaser
+  m_Shader: {fileID: -6465566751694194690, guid: d1bd629d2cdf29840bbf0f7257f31652, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_dd7040e062a1420d82fc32d0425e5cd8:
+        m_Texture: {fileID: 2800000, guid: 7f1f2242d6e74af4aa13cb04fcdcfbac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_a25d2472b1ae4d67aa20932324966cac: 0.15
+    - _disNoiseAmount: 0
+    - _noiseScale: 10
+    - _power: 2
+    m_Colors:
+    - Color_bc041c4f710247adadae419f06425a4f: {r: 3.4670107, g: 3.4670107, b: 3.4670107, a: 0}
+    - Vector2_95f8f25c1d7e4d7185581a60390a872f: {r: 0, g: 0, b: 0, a: 0}
+    - _vector2_speed: {r: 0.5, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

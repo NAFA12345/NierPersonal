@@ -1,0 +1,4619 @@
+fileFormatVersion: 2
+guid: 013c1c8b23e64244cb9a0e799a813739
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 2207850806306222022
+    second: big_strong
+  - first:
+      74: -2356227387654818302
+    second: big1
+  - first:
+      74: -2359737761799660146
+    second: big2
+  - first:
+      74: 3763711736470402476
+    second: big3
+  - first:
+      74: 5340958204920719290
+    second: big4
+  - first:
+      74: 6308197530400624464
+    second: big5
+  - first:
+      74: 396392639845537602
+    second: big6
+  - first:
+      74: 2247840553178368839
+    second: charge1
+  - first:
+      74: -5610003011804141437
+    second: charge1_1
+  - first:
+      74: 8782814472089714641
+    second: charge2_loop
+  - first:
+      74: 6533370243587480365
+    second: charge3
+  - first:
+      74: 4375887082997983982
+    second: charge_cancle
+  - first:
+      74: -5717410212812962090
+    second: dash_front
+  - first:
+      74: 1273079348521945208
+    second: Noesis Frames (13)
+  - first:
+      74: -1128292712812552325
+    second: Noesis Frames (14)
+  - first:
+      74: -6244636910654048705
+    second: dash_left3
+  - first:
+      74: -1816324737472280979
+    second: dash_front2
+  - first:
+      74: -9159077361301962490
+    second: dash_front3
+  - first:
+      74: 8789962404074715438
+    second: dash_back
+  - first:
+      74: -1181660618916435908
+    second: dash_back2
+  - first:
+      74: 4564453541542681279
+    second: dash_back3
+  - first:
+      74: -2688504110256811744
+    second: dash_left
+  - first:
+      74: 4007897161559042198
+    second: dash_left2
+  - first:
+      74: 8002163946734380551
+    second: dash_right
+  - first:
+      74: 6087425068686159131
+    second: dash_right2
+  - first:
+      74: 2520412886735888345
+    second: dash_righ3
+  - first:
+      74: 7354355872858297154
+    second: die1
+  - first:
+      74: 7003670808779236409
+    second: die2
+  - first:
+      74: -7545943577936875206
+    second: die3
+  - first:
+      74: -3053508553467145587
+    second: die4
+  - first:
+      74: -2990276975018838656
+    second: die5
+  - first:
+      74: -2082564059661039345
+    second: die6
+  - first:
+      74: -8772275576526511519
+    second: die7
+  - first:
+      74: 4688432628869473779
+    second: die_hittedmanytimes
+  - first:
+      74: -6114156276863282727
+    second: die_hittedmanytimes2
+  - first:
+      74: -8282378760026362546
+    second: dodge_front
+  - first:
+      74: 4415000735528535509
+    second: dodge_back
+  - first:
+      74: 1509205420396765838
+    second: dodge3_right
+  - first:
+      74: 987411193083961498
+    second: dodge4_left
+  - first:
+      74: 7727737105104073084
+    second: hitted1
+  - first:
+      74: 4031203651122587038
+    second: hitted2
+  - first:
+      74: -461540366816743826
+    second: hitted3
+  - first:
+      74: -7320561248816893420
+    second: hitted4_strong
+  - first:
+      74: 1348117215726548080
+    second: hitted5_back
+  - first:
+      74: -8639513369238893440
+    second: hitted6_back
+  - first:
+      74: -2039883729091216763
+    second: hitted7
+  - first:
+      74: 6611934257607452502
+    second: hitted_air
+  - first:
+      74: 3578099265292575479
+    second: hitted_air2
+  - first:
+      74: 1773187564859782551
+    second: hitted_air3
+  - first:
+      74: 5778650066440932875
+    second: hitted_backstrong
+  - first:
+      74: -6611782820088399647
+    second: hitted_backstrong2
+  - first:
+      74: -6778205106514926088
+    second: hitted_fliying1
+  - first:
+      74: -8269679678873610127
+    second: hitted_fliying1_2
+  - first:
+      74: -8481081348218513138
+    second: hitted_flying1_3
+  - first:
+      74: -7986908063707745848
+    second: hitted_flying_downstate
+  - first:
+      74: -8959023515700404534
+    second: hitted_flying_standup
+  - first:
+      74: 8713562223432085623
+    second: hitted_fliying2
+  - first:
+      74: 7529585351943790606
+    second: hitted_fliying2_2
+  - first:
+      74: -7887364878775900521
+    second: hitted_fliying2_3
+  - first:
+      74: -2592586649619985913
+    second: idle_longtime
+  - first:
+      74: -5988370298723046070
+    second: idle_longtime
+  - first:
+      74: -2592586649619985913
+    second: charge_2
+  - first:
+      74: -5071307412935297020
+    second: idle_longtime2
+  - first:
+      74: -4949355421413464369
+    second: jump1
+  - first:
+      74: 7593485951132330930
+    second: jump2_loop
+  - first:
+      74: 681569972901292378
+    second: jump3_landing
+  - first:
+      74: -9046720989040061529
+    second: jump_double_back
+  - first:
+      74: 4108972759560791327
+    second: jump_double_front
+  - first:
+      74: -406298757825183444
+    second: jump_double_side
+  - first:
+      74: 5437665841765157787
+    second: jump_double_front2
+  - first:
+      74: 6536922513428314425
+    second: jump_dashjumplanding
+  - first:
+      74: -1141854932172154366
+    second: jump_dashjump_loop
+  - first:
+      74: 8129224900446980615
+    second: jump_dashjump
+  - first:
+      74: -5584760643062860325
+    second: move_stop
+  - first:
+      74: 5642063787065894824
+    second: move_idle
+  - first:
+      74: 6616665202203207355
+    second: move_walk
+  - first:
+      74: 696169470063394953
+    second: move_run
+  - first:
+      74: -534209138503616106
+    second: move_stop2
+  - first:
+      74: 1115861639631044019
+    second: move_stop3
+  - first:
+      74: -8343028805394715609
+    second: move_superrun
+  - first:
+      74: 7276922740553597838
+    second: sit_sitdown
+  - first:
+      74: 1815022400943344769
+    second: sit_idle_loop
+  - first:
+      74: 2589322662055058844
+    second: sit_situp
+  - first:
+      74: -7063820261516224733
+    second: sword1
+  - first:
+      74: -637832094887262213
+    second: sword2
+  - first:
+      74: -564652270678621159
+    second: sword3
+  - first:
+      74: 2145974631193515413
+    second: sword4
+  - first:
+      74: 2157498389571012702
+    second: sword5
+  - first:
+      74: 9205694291026732732
+    second: sword6
+  - first:
+      74: -1197263596277616167
+    second: sword7
+  - first:
+      74: 3679986018655855816
+    second: sword_air
+  - first:
+      74: -8404870222060038328
+    second: sword_air2
+  - first:
+      74: 2914880823541424821
+    second: sword_strong
+  - first:
+      74: 6008701980873048320
+    second: emotion_victory
+  - first:
+      74: -1760083061211140108
+    second: emotion_clap
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Noesis Frames' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone014' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: big_strong
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 302
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: big1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 303
+      lastFrame: 673
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: big2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 674
+      lastFrame: 1007
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: big3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 1008
+      lastFrame: 1489
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: big4
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 1490
+      lastFrame: 1526
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: big5
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 1527
+      lastFrame: 1537
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: big6
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 1538
+      lastFrame: 2044
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 2044.9999
+      lastFrame: 2097
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge_2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 2098
+      lastFrame: 2150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge2_loop
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 2151
+      lastFrame: 2439
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 2440
+      lastFrame: 2934
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge_cancle
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 2935
+      lastFrame: 3436
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_front
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3437
+      lastFrame: 3446
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_left
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3447
+      lastFrame: 3456
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_left2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3457
+      lastFrame: 3557
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_left3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3558
+      lastFrame: 3618
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_front2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3619
+      lastFrame: 3719
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_front3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3720
+      lastFrame: 3780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_back
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3781
+      lastFrame: 3790
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_back2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3791
+      lastFrame: 3891
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_back3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3892
+      lastFrame: 3952
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_right
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3953
+      lastFrame: 3962
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_right2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 3963.0002
+      lastFrame: 4063
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dash_righ3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 4063.9998
+      lastFrame: 4124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 4125
+      lastFrame: 4325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 4326
+      lastFrame: 4526
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 4527
+      lastFrame: 4691
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die4
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 4692
+      lastFrame: 4874
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die5
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 4875
+      lastFrame: 5086
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die6
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 5087
+      lastFrame: 5301
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die7
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 5302
+      lastFrame: 5502
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die_hittedmanytimes
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 5503
+      lastFrame: 5623
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die_hittedmanytimes2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 5624
+      lastFrame: 5789
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge_front
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 5790
+      lastFrame: 5900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge_back
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 5901
+      lastFrame: 6021
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge3_right
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6022
+      lastFrame: 6132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge4_left
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6133
+      lastFrame: 6243
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6244
+      lastFrame: 6337
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6338
+      lastFrame: 6425
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6426
+      lastFrame: 6558
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted4_strong
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6559
+      lastFrame: 6674
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted5_back
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6675
+      lastFrame: 6765
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted6_back
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6766
+      lastFrame: 6871
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted7
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6872
+      lastFrame: 6962
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_air
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6963
+      lastFrame: 6968
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_air2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6969
+      lastFrame: 6979
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_air3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 6980
+      lastFrame: 7102
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_backstrong
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7103
+      lastFrame: 7191
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_backstrong2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7192
+      lastFrame: 7347
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_fliying1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7348
+      lastFrame: 7383
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_fliying1_2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7384
+      lastFrame: 7385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_flying1_3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7386
+      lastFrame: 7446
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_flying_downstate
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7447
+      lastFrame: 7456
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_flying_standup
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7457
+      lastFrame: 7545
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_fliying2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7546
+      lastFrame: 7584
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_fliying2_2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7585
+      lastFrame: 7586
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hitted_fliying2_3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 7586
+      lastFrame: 7773
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_longtime
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 8226
+      lastFrame: 8476
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_longtime2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 8478
+      lastFrame: 8595
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 8868
+      lastFrame: 8924
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump2_loop
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 8936
+      lastFrame: 8946
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump3_landing
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 8947
+      lastFrame: 9120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_double_back
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9121
+      lastFrame: 9186
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_double_front
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9187
+      lastFrame: 9267
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_double_side
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9268
+      lastFrame: 9363
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_double_front2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9364
+      lastFrame: 9454
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_dashjumplanding
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9455
+      lastFrame: 9544
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_dashjump_loop
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 8925
+      lastFrame: 8935
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_dashjump
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9545
+      lastFrame: 9656
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_stop
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9657
+      lastFrame: 9736
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_idle
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 9737
+      lastFrame: 10412
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_walk
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 10413
+      lastFrame: 10637
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_run
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 10638
+      lastFrame: 10672
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_stop2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 10673
+      lastFrame: 10766
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_stop3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 10767
+      lastFrame: 10864
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_superrun
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 10865
+      lastFrame: 10891
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sit_sitdown
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 12464
+      lastFrame: 12644
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sit_idle_loop
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 10892
+      lastFrame: 12132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sit_situp
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 12133
+      lastFrame: 12463
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword1
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 12645
+      lastFrame: 12919
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 12920
+      lastFrame: 13225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword3
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 13226
+      lastFrame: 13620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword4
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 13621
+      lastFrame: 13981
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword5
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 13982
+      lastFrame: 14201
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword6
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 14202
+      lastFrame: 14474
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword7
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 14475
+      lastFrame: 14869
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword_air
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 14870
+      lastFrame: 14922
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword_air2
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 14923
+      lastFrame: 14993
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sword_strong
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 14994
+      lastFrame: 15325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: emotion_victory
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 15326
+      lastFrame: 15475.999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: emotion_clap
+      takeName: Noesis Frames
+      internalID: 0
+      firstFrame: 15477.001
+      lastFrame: 15717.001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bone000
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone019
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone015
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone020
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone016
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone021
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone017
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone001
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone002
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone004
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone005
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone010
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone006
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone011
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone007
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone012
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone008
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone013
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone009
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone022
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone018
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone3157
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone3161
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone3154
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone512
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone513
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone514
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone515
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone516
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone517
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone519
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone520
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone521
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone523
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone524
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone525
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone527
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone528
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone529
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone256
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone257
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone258
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone259
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone260
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone261
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone263
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone264
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone265
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone267
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone268
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone269
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone271
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone272
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone273
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone003
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Player(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_0_Armor_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_1_Armor_Head
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_2_Armor_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_3_Armor_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_4_Armor_Head
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_5_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_6_facial_normal
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_7_facial_serious
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_8_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_9_Hair
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_10_Skirt
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_11_Skirt
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_12_Skirt
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_13_Eyemask
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_14_Broken
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_15_Broken
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_16_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_17_Skirt
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_18_Skirt
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_19_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_20_Hair
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_21_Hair
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_22_Eyelash
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_23_Feather
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_24_Broken
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_25_Body
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_26_facial_normal
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_27_facial_serious
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_28_facial_normal
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD0_29_facial_serious
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone-1
+      parentName: Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone4095
+      parentName: bone-1
+      position: {x: -0, y: 1.0160999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone4094
+      parentName: bone-1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone000
+      parentName: bone4094
+      position: {x: -0, y: 1.0159999, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone014
+      parentName: bone000
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3102
+      parentName: bone014
+      position: {x: 0.0759, y: 0.0711, z: 0.077199996}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3103
+      parentName: bone3102
+      position: {x: -0.009, y: -0.0813, z: 0.0525}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3104
+      parentName: bone3103
+      position: {x: -0.0077999993, y: -0.09229999, z: 0.0323}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3105
+      parentName: bone014
+      position: {x: 0.0877, y: 0.0713, z: 0.0751}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3106
+      parentName: bone3105
+      position: {x: 0.030899998, y: -0.076, z: 0.022799999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3107
+      parentName: bone3106
+      position: {x: 0.022699999, y: -0.0684, z: 0.0085}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3184
+      parentName: bone014
+      position: {x: 0.0769, y: 0.034, z: 0.084300004}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3185
+      parentName: bone3184
+      position: {x: -0.018, y: -0.08, z: 0.0371}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3186
+      parentName: bone3185
+      position: {x: -0.0162, y: -0.08, z: 0.0178}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3187
+      parentName: bone3186
+      position: {x: -0.0198, y: -0.08, z: 0.011499999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3188
+      parentName: bone3187
+      position: {x: -0.0146, y: -0.089999996, z: 0.010399999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3189
+      parentName: bone3188
+      position: {x: -0.0201, y: -0.08, z: 0.0081}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3190
+      parentName: bone014
+      position: {x: -0.0058999998, y: 0.034, z: 0.1068}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3191
+      parentName: bone3190
+      position: {x: -0.0128, y: -0.08, z: 0.0092}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3192
+      parentName: bone3191
+      position: {x: -0.0166, y: -0.08, z: 0.0196}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3193
+      parentName: bone3192
+      position: {x: -0.0222, y: -0.08, z: 0.020699998}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3194
+      parentName: bone3193
+      position: {x: -0.0222, y: -0.089999996, z: 0.0245}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3195
+      parentName: bone3194
+      position: {x: -0.0222, y: -0.08, z: 0.0245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3196
+      parentName: bone014
+      position: {x: -0.0742, y: 0.034, z: 0.0876}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3197
+      parentName: bone3196
+      position: {x: -0.023599999, y: -0.08, z: 0.0041}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3198
+      parentName: bone3197
+      position: {x: -0.0277, y: -0.08, z: 0.0139}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3199
+      parentName: bone3198
+      position: {x: -0.0198, y: -0.08, z: 0.014099999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3200
+      parentName: bone3199
+      position: {x: -0.0215, y: -0.089999996, z: 0.015499999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3201
+      parentName: bone3200
+      position: {x: -0.022599999, y: -0.08, z: 0.0164}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3202
+      parentName: bone014
+      position: {x: -0.1206, y: 0.034, z: 0.0629}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3203
+      parentName: bone3202
+      position: {x: -0.0272, y: -0.08, z: -0.00059999997}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3204
+      parentName: bone3203
+      position: {x: -0.020899998, y: -0.08, z: 0.0037}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3205
+      parentName: bone3204
+      position: {x: -0.02, y: -0.08, z: 0.0087}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3206
+      parentName: bone3205
+      position: {x: -0.027999999, y: -0.089999996, z: 0.0087}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3207
+      parentName: bone3206
+      position: {x: -0.027999999, y: -0.08, z: 0.0087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3208
+      parentName: bone014
+      position: {x: -0.1205, y: 0.034, z: 0.0085}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3209
+      parentName: bone3208
+      position: {x: -0.0432, y: -0.08, z: -0.0004}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3210
+      parentName: bone3209
+      position: {x: -0.0404, y: -0.08, z: -0.0027}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3211
+      parentName: bone3210
+      position: {x: -0.039499998, y: -0.08, z: -0.0052999994}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3212
+      parentName: bone3211
+      position: {x: -0.044099998, y: -0.089999996, z: -0.0052999994}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3213
+      parentName: bone3212
+      position: {x: -0.036, y: -0.08, z: -0.0052999994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3214
+      parentName: bone014
+      position: {x: -0.105399996, y: 0.034, z: -0.037299998}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3215
+      parentName: bone3214
+      position: {x: -0.035499997, y: -0.08, z: -0.0074}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3216
+      parentName: bone3215
+      position: {x: -0.031099997, y: -0.08, z: -0.014099999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3217
+      parentName: bone3216
+      position: {x: -0.0374, y: -0.08, z: -0.0158}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3218
+      parentName: bone3217
+      position: {x: -0.0374, y: -0.089999996, z: -0.0158}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3219
+      parentName: bone3218
+      position: {x: -0.0374, y: -0.08, z: -0.0158}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3220
+      parentName: bone014
+      position: {x: -0.076799996, y: 0.034, z: -0.0711}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3221
+      parentName: bone3220
+      position: {x: -0.0256, y: -0.08, z: -0.016900001}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3222
+      parentName: bone3221
+      position: {x: -0.041799996, y: -0.08, z: -0.0301}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3223
+      parentName: bone3222
+      position: {x: -0.0294, y: -0.08, z: -0.0238}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3224
+      parentName: bone3223
+      position: {x: -0.023099998, y: -0.089999996, z: -0.020499999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3225
+      parentName: bone3224
+      position: {x: -0.0296, y: -0.08, z: -0.0296}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3226
+      parentName: bone014
+      position: {x: -0.036, y: 0.034, z: -0.0855}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3227
+      parentName: bone3226
+      position: {x: -0.0245, y: -0.08, z: -0.0387}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3228
+      parentName: bone3227
+      position: {x: -0.021300001, y: -0.08, z: -0.0345}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3229
+      parentName: bone3228
+      position: {x: -0.0182, y: -0.08, z: -0.0365}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3230
+      parentName: bone3229
+      position: {x: -0.0182, y: -0.089999996, z: -0.0365}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3231
+      parentName: bone3230
+      position: {x: -0.0182, y: -0.08, z: -0.0365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3232
+      parentName: bone014
+      position: {x: -0.0012999999, y: 0.034, z: -0.086}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3233
+      parentName: bone3232
+      position: {x: -0.0043, y: -0.08, z: -0.0292}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3234
+      parentName: bone3233
+      position: {x: -0.0055, y: -0.08, z: -0.0466}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3235
+      parentName: bone3234
+      position: {x: -0.001, y: -0.08, z: -0.031099997}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3236
+      parentName: bone3235
+      position: {x: -0.0014, y: -0.089999996, z: -0.034}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3237
+      parentName: bone3236
+      position: {x: -0.0012999999, y: -0.08, z: -0.0383}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3238
+      parentName: bone014
+      position: {x: 0.0438, y: 0.034, z: -0.087299995}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3239
+      parentName: bone3238
+      position: {x: 0.0148, y: -0.08, z: -0.0392}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3240
+      parentName: bone3239
+      position: {x: 0.0128, y: -0.08, z: -0.040999997}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3241
+      parentName: bone3240
+      position: {x: 0.0093, y: -0.08, z: -0.041799996}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3242
+      parentName: bone3241
+      position: {x: 0.0093, y: -0.089999996, z: -0.041799996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3243
+      parentName: bone3242
+      position: {x: 0.0093, y: -0.08, z: -0.041799996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3244
+      parentName: bone014
+      position: {x: 0.0756, y: 0.034, z: -0.0748}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3245
+      parentName: bone3244
+      position: {x: 0.0265, y: -0.08, z: -0.0269}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3246
+      parentName: bone3245
+      position: {x: 0.0184, y: -0.08, z: -0.0324}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3247
+      parentName: bone3246
+      position: {x: 0.0257, y: -0.08, z: -0.0385}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3248
+      parentName: bone3247
+      position: {x: 0.019, y: -0.089999996, z: -0.0367}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3249
+      parentName: bone3248
+      position: {x: 0.0184, y: -0.08, z: -0.0354}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3250
+      parentName: bone014
+      position: {x: 0.10649999, y: 0.034, z: -0.049799997}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3251
+      parentName: bone3250
+      position: {x: 0.0197, y: -0.08, z: -0.0165}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3252
+      parentName: bone3251
+      position: {x: 0.030399999, y: -0.08, z: -0.024}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3253
+      parentName: bone3252
+      position: {x: 0.0271, y: -0.08, z: -0.022999998}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3254
+      parentName: bone3253
+      position: {x: 0.0271, y: -0.089999996, z: -0.022999998}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3255
+      parentName: bone3254
+      position: {x: 0.0271, y: -0.08, z: -0.022999998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3256
+      parentName: bone014
+      position: {x: 0.1168, y: 0.034, z: -0.0147}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3257
+      parentName: bone3256
+      position: {x: 0.0345, y: -0.08, z: -0.0191}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3258
+      parentName: bone3257
+      position: {x: 0.048, y: -0.08, z: -0.0219}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3259
+      parentName: bone3258
+      position: {x: 0.049799997, y: -0.08, z: -0.023599999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3260
+      parentName: bone3259
+      position: {x: 0.033099998, y: -0.089999996, z: -0.0183}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3261
+      parentName: bone3260
+      position: {x: 0.020699998, y: -0.08, z: -0.016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3262
+      parentName: bone014
+      position: {x: 0.1252, y: 0.034, z: 0.029000001}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3263
+      parentName: bone3262
+      position: {x: 0.045799997, y: -0.08, z: -0.0082}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3264
+      parentName: bone3263
+      position: {x: 0.057299998, y: -0.08, z: -0.0108}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3265
+      parentName: bone3264
+      position: {x: 0.0425, y: -0.08, z: -0.013099999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3266
+      parentName: bone3265
+      position: {x: 0.0367, y: -0.089999996, z: -0.0173}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3267
+      parentName: bone3266
+      position: {x: 0.0314, y: -0.08, z: -0.014400001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3268
+      parentName: bone014
+      position: {x: 0.1013, y: 0.034, z: 0.0721}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3269
+      parentName: bone3268
+      position: {x: 0.0507, y: -0.08, z: 0.0107}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3270
+      parentName: bone3269
+      position: {x: 0.044499997, y: -0.08, z: -0.0043}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3271
+      parentName: bone3270
+      position: {x: 0.0382, y: -0.08, z: 0.0008}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3272
+      parentName: bone3271
+      position: {x: 0.041599996, y: -0.089999996, z: -0.010299999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3273
+      parentName: bone3272
+      position: {x: 0.031099997, y: -0.08, z: -0.0121}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2657
+      parentName: bone014
+      position: {x: -0.0937, y: -0.0238, z: 0.0648}
+      rotation: {x: -0, y: -0, z: -0.043619383, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2656
+      parentName: bone014
+      position: {x: 0.0937, y: -0.0238, z: 0.0648}
+      rotation: {x: -0, y: -0, z: 0.043619383, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone015
+      parentName: bone014
+      position: {x: 0.101, y: -0.065, z: 0}
+      rotation: {x: -0, y: -0, z: 0.043619383, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone016
+      parentName: bone015
+      position: {x: -0, y: -0.38, z: -0.01}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone017
+      parentName: bone016
+      position: {x: -0, y: -0.39999998, z: -0.01}
+      rotation: {x: -0, y: -0, z: -0.043619383, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone018
+      parentName: bone017
+      position: {x: -0, y: -0.13499999, z: 0.08}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone019
+      parentName: bone014
+      position: {x: -0.101, y: -0.065, z: 0}
+      rotation: {x: -0, y: -0, z: -0.043619383, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone020
+      parentName: bone019
+      position: {x: -0, y: -0.38, z: -0.01}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone021
+      parentName: bone020
+      position: {x: -0, y: -0.39999998, z: -0.01}
+      rotation: {x: -0, y: -0, z: 0.043619383, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone022
+      parentName: bone021
+      position: {x: -0, y: -0.13499999, z: 0.08}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2608
+      parentName: bone014
+      position: {x: 0.066, y: -0.083, z: -0.03}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2609
+      parentName: bone014
+      position: {x: -0.066, y: -0.083, z: -0.03}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone001
+      parentName: bone000
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone002
+      parentName: bone001
+      position: {x: -0, y: 0.12699999, z: 0.01}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone003
+      parentName: bone002
+      position: {x: -0, y: 0.138, z: -0.015}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone006
+      parentName: bone003
+      position: {x: 0.033, y: 0.089999996, z: -0.024}
+      rotation: {x: -0, y: -0, z: -0.17364815, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone007
+      parentName: bone006
+      position: {x: 0.099999994, y: 0.0069999998, z: -0.0139999995}
+      rotation: {x: -0.030289039, y: -0.011446887, z: 0.14886604, w: 0.98832715}
+      scale: {x: 1, y: 0.99999994, z: 0.9999991}
+    - name: bone008
+      parentName: bone007
+      position: {x: 0.22, y: 0, z: 0}
+      rotation: {x: -0.0036087162, y: -0.029022172, z: 0.020466616, w: 0.99936277}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000002}
+    - name: bone3121
+      parentName: bone008
+      position: {x: 0.10127562, y: 0.0023788721, z: -0.006397518}
+      rotation: {x: -0, y: -0, z: -3.4416914e-15, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: bone009
+      parentName: bone008
+      position: {x: 0.22, y: 0, z: 0}
+      rotation: {x: 0.00000001200136, y: -0.000000014901161, z: -0.08715571, w: 0.9961947}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: bone256
+      parentName: bone009
+      position: {x: 0.015, y: -0.011, z: 0.025999999}
+      rotation: {x: -0.010923831, y: -0.19338349, z: -0.043259874, w: 0.98010826}
+      scale: {x: 1.0000011, y: 1.0000006, z: 0.9999995}
+    - name: bone257
+      parentName: bone256
+      position: {x: 0.03, y: -0.003, z: 0.015}
+      rotation: {x: 0.0029953867, y: -0.19571735, z: -0.034238126, w: 0.98005784}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: bone258
+      parentName: bone257
+      position: {x: 0.025999999, y: 0, z: 0}
+      rotation: {x: 0.000000007784161, y: 0.043619283, z: -0.000000013454893, w: 0.99904823}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: bone259
+      parentName: bone009
+      position: {x: 0.033, y: 0, z: 0.022}
+      rotation: {x: -0.00000002591415, y: -0.043619417, z: -0.00000002183024, w: 0.99904823}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: bone260
+      parentName: bone259
+      position: {x: 0.036, y: 0.0034999999, z: 0.003}
+      rotation: {x: -0.011030643, y: -0.011289679, z: 0.06899598, w: 0.9974921}
+      scale: {x: 1.0000011, y: 0.9999997, z: 0.9999999}
+    - name: bone261
+      parentName: bone260
+      position: {x: 0.036, y: -0.004, z: 0.002}
+      rotation: {x: -0.00000000975534, y: 0.00000003495604, z: -0.08715575, w: 0.9961948}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1.0000001}
+    - name: bone262
+      parentName: bone261
+      position: {x: 0.02, y: 0, z: 0}
+      rotation: {x: 0.000000021743272, y: 0.000000025494217, z: -0.087155685, w: 0.9961947}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: bone263
+      parentName: bone009
+      position: {x: 0.033, y: 0, z: 0.0069999998}
+      rotation: {x: 0.0005722094, y: -0.013013417, z: -0.0026973693, w: 0.99991155}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: bone264
+      parentName: bone263
+      position: {x: 0.0372, y: 0.00147, z: 0.0008}
+      rotation: {x: -0.0006075213, y: -0.0069437777, z: -0.018313045, w: 0.999808}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1}
+    - name: bone265
+      parentName: bone264
+      position: {x: 0.0378, y: 0, z: 0}
+      rotation: {x: 0.000000025320324, y: 0.00000022444866, z: 0.05119129, w: 0.99868894}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: bone266
+      parentName: bone265
+      position: {x: 0.022999998, y: -0.004, z: 0}
+      rotation: {x: -0.000000011565346, y: 0.000000013016696, z: -0.08715578, w: 0.9961948}
+      scale: {x: 1, y: 0.9999996, z: 1}
+    - name: bone267
+      parentName: bone009
+      position: {x: 0.033, y: 0, z: -0.009}
+      rotation: {x: 0.00000009655643, y: -0.0467624, z: 0.00000014957064, w: 0.998906}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: bone268
+      parentName: bone267
+      position: {x: 0.0345, y: 0, z: -0.0016}
+      rotation: {x: 0.0020756181, y: 0.0017516682, z: -0.039360177, w: 0.99922144}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1}
+    - name: bone269
+      parentName: bone268
+      position: {x: 0.037499998, y: 0, z: -0.0015}
+      rotation: {x: 0.004326736, y: 0.01581026, z: 0.055407654, w: 0.99832934}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: bone270
+      parentName: bone269
+      position: {x: 0.022, y: -0.004, z: 0}
+      rotation: {x: -0.000000011565346, y: 0.000000013016696, z: -0.08715578, w: 0.9961948}
+      scale: {x: 1, y: 0.9999996, z: 1}
+    - name: bone271
+      parentName: bone009
+      position: {x: 0.033, y: 0, z: -0.020999998}
+      rotation: {x: -0.011577324, y: -0.14421318, z: 0.044845194, w: 0.98846215}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: bone272
+      parentName: bone271
+      position: {x: 0.03, y: -0.0037999998, z: -0.0069}
+      rotation: {x: 0.0065442408, y: 0.0748021, z: -0.070994236, w: 0.99464655}
+      scale: {x: 1.0000008, y: 1.0000006, z: 0.9999998}
+    - name: bone273
+      parentName: bone272
+      position: {x: 0.03, y: 0, z: 0}
+      rotation: {x: -0.000000008381898, y: 0.00000026077018, z: -0.03925637, w: 0.9992292}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1}
+    - name: bone274
+      parentName: bone273
+      position: {x: 0.018, y: 0, z: 0}
+      rotation: {x: -0.000000007551643, y: 0.000000013759611, z: -0.08715577, w: 0.9961947}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: bone2577
+      parentName: bone008
+      position: {x: 0.221, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -3.4416914e-15, w: 1}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000002}
+    - name: bone2576
+      parentName: bone008
+      position: {x: 0.099999994, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -3.4416914e-15, w: 1}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000005}
+    - name: bone2560
+      parentName: bone006
+      position: {x: 0.099999994, y: 0.0070999996, z: -0.0139999995}
+      rotation: {x: 0.000000010244548, y: -0.089669995, z: -0.3021971, w: 0.9490186}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999997}
+    - name: bone010
+      parentName: bone003
+      position: {x: -0.033, y: 0.089999996, z: -0.024}
+      rotation: {x: -0, y: -0, z: 0.17364815, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone011
+      parentName: bone010
+      position: {x: -0.099999994, y: 0.0069999998, z: -0.0139999995}
+      rotation: {x: -0.030289039, y: 0.011446887, z: -0.14886604, w: 0.98832715}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: bone012
+      parentName: bone011
+      position: {x: -0.22, y: 0, z: 0}
+      rotation: {x: -0.0036087162, y: 0.029022172, z: -0.020466616, w: 0.99936277}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: bone3120
+      parentName: bone012
+      position: {x: -0.10127562, y: 0.0023788721, z: -0.006397518}
+      rotation: {x: -0, y: -0, z: 3.4416914e-15, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: bone013
+      parentName: bone012
+      position: {x: -0.22, y: 0, z: 0}
+      rotation: {x: 0.00000001200136, y: 0.000000014901161, z: 0.08715571, w: 0.9961947}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: bone527
+      parentName: bone013
+      position: {x: -0.033, y: 0, z: -0.020999998}
+      rotation: {x: -0.011577326, y: 0.14421345, z: -0.04484555, w: 0.98846215}
+      scale: {x: 1.0000004, y: 1, z: 0.99999994}
+    - name: bone528
+      parentName: bone527
+      position: {x: -0.03, y: -0.0037999998, z: -0.0069}
+      rotation: {x: 0.006544333, y: -0.074802555, z: 0.07099401, w: 0.9946465}
+      scale: {x: 1.0000013, y: 1.0000008, z: 0.9999998}
+    - name: bone529
+      parentName: bone528
+      position: {x: -0.03, y: 0, z: 0}
+      rotation: {x: -0.000000012107186, y: 0.00000032037477, z: 0.039252017, w: 0.9992293}
+      scale: {x: 1.000001, y: 1.0000005, z: 1}
+    - name: bone530
+      parentName: bone529
+      position: {x: -0.018, y: 0, z: 0}
+      rotation: {x: -0.000000007451884, y: -0.000000009649105, z: 0.08715574, w: 0.9961947}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: bone523
+      parentName: bone013
+      position: {x: -0.033, y: 0, z: -0.009}
+      rotation: {x: 0.00000010214436, y: 0.046762135, z: -0.00000023152698, w: 0.9989061}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: bone524
+      parentName: bone523
+      position: {x: -0.0345, y: 0, z: -0.0016}
+      rotation: {x: 0.002075592, y: -0.0017515636, z: 0.03936088, w: 0.9992214}
+      scale: {x: 1.0000012, y: 1, z: 1.0000001}
+    - name: bone525
+      parentName: bone524
+      position: {x: -0.037499998, y: 0, z: -0.0015}
+      rotation: {x: 0.004326722, y: -0.015810363, z: -0.05540807, w: 0.9983293}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: bone526
+      parentName: bone525
+      position: {x: -0.022, y: -0.004, z: 0}
+      rotation: {x: -0.000000001395645, y: 0.000000015187059, z: 0.08715571, w: 0.9961947}
+      scale: {x: 0.99999994, y: 0.99999946, z: 1}
+    - name: bone519
+      parentName: bone013
+      position: {x: -0.033, y: 0, z: 0.0069999998}
+      rotation: {x: 0.00057218637, y: 0.013012957, z: 0.0026972357, w: 0.9999116}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: bone520
+      parentName: bone519
+      position: {x: -0.0372, y: 0.00147, z: 0.0008}
+      rotation: {x: -0.0006075273, y: 0.006943762, z: 0.01831303, w: 0.999808}
+      scale: {x: 1.0000012, y: 1, z: 1.0000001}
+    - name: bone521
+      parentName: bone520
+      position: {x: -0.0378, y: 0, z: 0}
+      rotation: {x: 0.00000002892919, y: -0.00000019138668, z: -0.051191453, w: 0.9986889}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: bone522
+      parentName: bone521
+      position: {x: -0.022999998, y: -0.004, z: 0}
+      rotation: {x: -0.000000001395645, y: 0.000000015187059, z: 0.08715571, w: 0.9961947}
+      scale: {x: 0.99999994, y: 0.99999946, z: 1}
+    - name: bone515
+      parentName: bone013
+      position: {x: -0.033, y: 0, z: 0.022}
+      rotation: {x: -0.00000002591415, y: 0.043619417, z: 0.00000002183024, w: 0.99904823}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999976}
+    - name: bone516
+      parentName: bone515
+      position: {x: -0.036, y: 0.0034999999, z: 0.003}
+      rotation: {x: -0.01103082, y: 0.011289767, z: -0.068997905, w: 0.99749196}
+      scale: {x: 1.0000014, y: 1, z: 1}
+    - name: bone517
+      parentName: bone516
+      position: {x: -0.036, y: -0.004, z: 0.002}
+      rotation: {x: -0.000000010082078, y: -0.000000045886278, z: 0.08715575, w: 0.9961947}
+      scale: {x: 0.9999996, y: 0.9999997, z: 1.0000002}
+    - name: bone518
+      parentName: bone517
+      position: {x: -0.02, y: 0, z: 0}
+      rotation: {x: 0.000000024957773, y: 8.650749e-10, z: 0.087155685, w: 0.9961947}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: bone512
+      parentName: bone013
+      position: {x: -0.015, y: -0.011, z: 0.025999999}
+      rotation: {x: -0.01092501, y: 0.19338296, z: 0.04325889, w: 0.9801084}
+      scale: {x: 1.0000014, y: 1.0000007, z: 0.99999934}
+    - name: bone513
+      parentName: bone512
+      position: {x: -0.03, y: -0.003, z: 0.015}
+      rotation: {x: 0.0029951574, y: 0.19571942, z: 0.034237877, w: 0.9800575}
+      scale: {x: 1.000001, y: 0.99999994, z: 0.9999999}
+    - name: bone514
+      parentName: bone513
+      position: {x: -0.025999999, y: 0, z: 0}
+      rotation: {x: -2.9656533e-10, y: -0.04361931, z: 0.000000013999138, w: 0.99904823}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000001}
+    - name: bone2593
+      parentName: bone012
+      position: {x: -0.221, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 3.4416914e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: bone2592
+      parentName: bone012
+      position: {x: -0.099999994, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 3.4416914e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000002}
+    - name: bone2561
+      parentName: bone010
+      position: {x: -0.099999994, y: 0.0070999996, z: -0.0139999995}
+      rotation: {x: 0.000000010244548, y: 0.089669995, z: 0.3021971, w: 0.9490186}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999997}
+    - name: bone3136
+      parentName: bone003
+      position: {x: -0, y: 0, z: 0.105}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone004
+      parentName: bone003
+      position: {x: -0, y: 0.13399999, z: -0.044}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2640
+      parentName: bone004
+      position: {x: -0, y: 0.049999997, z: 0.0235}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone005
+      parentName: bone004
+      position: {x: -0, y: 0.074999996, z: 0.03}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3152
+      parentName: bone005
+      position: {x: -0, y: 0.024, z: -0.002}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3156
+      parentName: bone005
+      position: {x: -0.0478, y: 0.1485, z: 0.096999995}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3157
+      parentName: bone3156
+      position: {x: -0.0134, y: -0.0646, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3158
+      parentName: bone3157
+      position: {x: 0.00029999999, y: -0.0436, z: -0.005}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3159
+      parentName: bone3158
+      position: {x: 0.0067, y: -0.03, z: -0.005}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3160
+      parentName: bone005
+      position: {x: 0.0478, y: 0.1485, z: 0.096999995}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3161
+      parentName: bone3160
+      position: {x: 0.0134, y: -0.0646, z: -0.005}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3162
+      parentName: bone3161
+      position: {x: -0.00029999999, y: -0.0436, z: -0.005}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3163
+      parentName: bone3162
+      position: {x: -0.0086, y: -0.0383, z: -0.005}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3153
+      parentName: bone005
+      position: {x: 0.0199, y: 0.1373, z: 0.1218}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3154
+      parentName: bone3153
+      position: {x: -0, y: -0.0392, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3155
+      parentName: bone3154
+      position: {x: -0, y: -0.0328, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3164
+      parentName: bone005
+      position: {x: -0.085, y: 0.1485, z: 0.0175}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3165
+      parentName: bone3164
+      position: {x: -0, y: -0.08, z: 0}
+      rotation: {x: 0.032291427, y: -0.13588001, z: 0.012740697, w: 0.99011695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3166
+      parentName: bone005
+      position: {x: -0.065, y: 0.1485, z: -0.055}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3167
+      parentName: bone3166
+      position: {x: -0, y: -0.08, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3170
+      parentName: bone005
+      position: {x: 0.065, y: 0.1485, z: -0.055}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3171
+      parentName: bone3170
+      position: {x: -0, y: -0.08, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3172
+      parentName: bone005
+      position: {x: 0.085, y: 0.1485, z: 0.0175}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3173
+      parentName: bone3172
+      position: {x: -0, y: -0.08, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3168
+      parentName: bone005
+      position: {x: -0, y: 0.1485, z: -0.07}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone3169
+      parentName: bone3168
+      position: {x: -0, y: -0.08, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2816
+      parentName: bone005
+      position: {x: -0, y: 0.04, z: 0.029000001}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2818
+      parentName: bone005
+      position: {x: 0.029000001, y: 0.0776, z: 0.0821}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone2817
+      parentName: bone005
+      position: {x: -0.029000001, y: 0.0776, z: 0.0821}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
